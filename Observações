@@ -1,0 +1,5 @@
+Para pegar os tempos : 
+1)Compile o programa : g++ Labirinto_Grafo.cpp  -o prog -std=c++11
+2)Entre com o numero linhas e colunas.
+3)Construa o Labirinto utilizando os "." para passagem livre e "#" para uma parede.
+4)No seu terminal aparecerá a mensagem com o numero máximo de passos que pode ser definida se a entrada e a saída for escolhida de forma ótima.
